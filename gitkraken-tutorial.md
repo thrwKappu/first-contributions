@@ -16,7 +16,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 ## Git Kraken
 
-Download [GitKraken](https://www.gitkraken.com), install and open it.
+Download [GitKraken](https://www.gitkraken.com), Install and open it.
 
 
 You should see the "Welcome to GitKraken" modal dialog - Sign in with GitHub and allow GitKraken access to your GitHub account.
@@ -36,7 +36,7 @@ This will create of copy of this repository in your account.
 
 ## Clone the repository
 
-In GitKraken, go to File-> Clone Repo.
+In GitKraken, go to File -> Clone Repo.
 
 
 <img style="float: right;" src="assets/gk-clone.png" alt="clone this repository" />
@@ -122,9 +122,9 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 ## Tutorials Using Other Tools
 
-|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>
-|---|---|---|
-|[Command Line](README.md)|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|
+|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://www.visualstudio.com/wp-content/uploads/2017/11/microsoft-visual-studio.svg" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|
+|---|---|---|---|
+|[Command Line](README.md)|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|
 
 ## Self-Promotion
 
